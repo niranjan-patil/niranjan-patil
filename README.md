@@ -37,7 +37,9 @@ I'm a full-stack web developer with **6+ years** of experience turning ideas int
 
 ## 📈 GitHub Stats
 
+<!--
 ![Niranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-patil&show_icons=true&theme=radical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-patil&layout=compact&theme=radical)
 
 ---
